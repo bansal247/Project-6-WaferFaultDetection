@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6d38712-ff37-4d21-abce-5cabc242cee9" name="Changes" comment="" />
+    <list default="true" id="f6d38712-ff37-4d21-abce-5cabc242cee9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DataTransform_Training/Data_Transformation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypeValidation_Insertion_Training/DataTypeValidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training_Raw_data_validation/rawValidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application_logging/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema_training.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training_Validation_Insertion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26BG1NpPdLqqzrypi90fLV1CfRk" />
   <component name="ProjectViewState">
@@ -15,6 +39,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ML MODELS/waferFaultDetection/code/WaferFaultDetection_new" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.pyOptions" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -49,5 +75,16 @@
       <updated>1646889357235</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
